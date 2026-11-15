@@ -1,0 +1,4 @@
+Three Fictional developers and their specialty.
+Adesina Ademola - Frontend developer
+Ahmed Ibrahim - Frontend developer
+Fred Timothy - DevOps
